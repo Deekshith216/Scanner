@@ -1,0 +1,1 @@
+This folder will contain QRScanner App with Login, QR Code Scanner and Firestore integration.
