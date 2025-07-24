@@ -1,5 +1,10 @@
 This folder will contain QRScanner App with Login, QR Code Scanner and Firestore integration.
 
+ Demo Credentials (for testing)
+Open universal.apk file from relases
+Email: testuser@example.com
+Password: 123456
+
 # QR Scanner App
 A simple and secure QR Code Scanner built with **React Native** using **Expo**, featuring:
 -  Firebase Authentication (Email & Password login)
@@ -32,7 +37,4 @@ npm install
 npm install -g expo-cli
 expo start
 
- Demo Credentials (for testing)
-Email: testuser@example.com
-Password: 123456
 
